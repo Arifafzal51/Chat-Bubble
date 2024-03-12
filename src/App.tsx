@@ -88,8 +88,7 @@ const App = () => {
     onPublicMessage={onSendPublicMessage}
     onPrivateMessage={onSendPrivateMessage}
     onConnect={onConnect}
-    onDisconnect={onDisconnect}
-  />;
+    onDisconnect={onDisconnect} username={''}  />;
 
 }
 
