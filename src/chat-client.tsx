@@ -37,7 +37,7 @@ export const ChatClient = (props: Props) => {
           <Grid
             item
             xs={2}
-            style={{ backgroundColor: "#2196f3", color: "white" ,backgroundColor: '#ff1744'}}
+            style={{ backgroundColor: "#2196f3", color: "white"}}
           >
             <div style={{ padding: "10px 0", textAlign: "center"}}>
               <h2>{props.username}</h2>
