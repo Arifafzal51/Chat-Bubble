@@ -39,7 +39,7 @@ export const ChatClient = (props: Props) => {
             xs={2}
             style={{ backgroundColor: "#2196f3", color: "white" }}
           >
-            <div style={{ padding: "10px 0", textAlign: "center" }}>
+            <div style={{ padding: "10px 0", textAlign: "center" , backgroundColor: '#ff1744'}}>
               <h2>{props.username}</h2>
             </div>
             <List component="nav">
