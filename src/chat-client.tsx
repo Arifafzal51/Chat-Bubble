@@ -111,7 +111,7 @@ export const ChatClient = (props: Props) => {
                     <Button
                     style={{
                       color: 'white',
-                      backgroundColor: '#00e676', 
+                      backgroundColor: '#f50057', 
                       borderColor: '#e8f4fd', 
                     }}
                       variant="outlined"
