@@ -37,9 +37,9 @@ export const ChatClient = (props: Props) => {
           <Grid
             item
             xs={2}
-            style={{ backgroundColor: "#2196f3", color: "white" }}
+            style={{ backgroundColor: "#2196f3", color: "white" ,backgroundColor: '#ff1744'}}
           >
-            <div style={{ padding: "10px 0", textAlign: "center" , backgroundColor: '#ff1744'}}>
+            <div style={{ padding: "10px 0", textAlign: "center"}}>
               <h2>{props.username}</h2>
             </div>
             <List component="nav">
