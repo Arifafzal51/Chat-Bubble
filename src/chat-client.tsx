@@ -52,7 +52,7 @@ export const ChatClient = (props: Props) => {
                   button
                 >
                   <ListItemText
-                    style={{ fontWeight: 800, borderColor: "text.primary" }}
+                    style={{ fontWeight: 800, borderColor: "#ff1744" }}
                     primary={item}
                   />
                 </ListItem>
@@ -111,7 +111,7 @@ export const ChatClient = (props: Props) => {
                     <Button
                     style={{
                       color: 'white',
-                      backgroundColor: '#f50057', 
+                      backgroundColor: '#ff1744', 
                       borderColor: '#e8f4fd', 
                     }}
                       variant="outlined"
