@@ -49,7 +49,7 @@ const useStyles = makeStyles((theme) => ({
     padding: 0,
   },
   image: {
-    width: "150px",
+    width: "250px",
     height: "auto",
     margin: 0,
   },
