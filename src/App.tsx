@@ -198,7 +198,7 @@ const App = () => {
               <Grid item xs={12} className={classes.imageContainer}>
               
                 <img
-                  src="./src/favicon.png"
+                  src="https://github.com/Arifafzal51/Chat-Bubble/blob/main/src/favicon.png"
                   alt="ChatBubble Image"
                   className={classes.image}
                   />
